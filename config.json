@@ -1,0 +1,11 @@
+{
+  "mysql": [{
+    "host": "mysql-host",
+    "username": "mysql-username",
+    "password": "mysql-password",
+    "database": "mysql-database"
+  }],
+  "auth": [{
+    "salt": "salt"
+  }]
+}
