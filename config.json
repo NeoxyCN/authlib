@@ -6,7 +6,6 @@
     "database": "mysql-database"
   }],
   "auth": [{
-    "salt": "salt",
-    "system": "System"
+    "salt": "salt"
   }]
 }
